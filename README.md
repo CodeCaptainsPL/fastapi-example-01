@@ -18,10 +18,10 @@ This project is organized as a Python package called `employee` with the followi
 
 ## Installation and Usage
 
-To use this project, you need Python 3.7 or higher.
+To use this project, you need Python 3.11 or higher.
 
 1. Clone this repository.
-2. Navigate to the project directory.
+2. Navigate to the repo directory.
 3. Install poetry
 4. Install project:
     ```bash
