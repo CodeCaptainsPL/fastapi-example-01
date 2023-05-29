@@ -25,7 +25,7 @@ trio = ["trio (<0.22)"]
 name = "certifi"
 version = "2023.5.7"
 description = "Python package for providing Mozilla's CA Bundle."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.6"
 files = [
@@ -113,7 +113,7 @@ files = [
 name = "httpcore"
 version = "0.17.2"
 description = "A minimal low-level HTTP client."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 files = [
@@ -189,7 +189,7 @@ test = ["Cython (>=0.29.24,<0.30.0)"]
 name = "httpx"
 version = "0.24.1"
 description = "The next generation HTTP client."
-category = "main"
+category = "dev"
 optional = false
 python-versions = ">=3.7"
 files = [
@@ -658,4 +658,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "0fb37d07042dc6990cf56e0613f4d927c46fd7f818e593b0915333a84ad4810a"
+content-hash = "64f8cffee5bec60e293ace1965831343f692180a11df8af0fa03d9e1f7678daa"
